@@ -1,20 +1,20 @@
 # Site settings
-title: 柒月
-SEOTitle: Nov.柒月
+title: 温宇直
+SEOTitle: 写字的人
 header-img: img/home-bg.jpg
-email: anthony_jin@yeah.net
+email: 391393844@qq.com
 description: "世事如书。"
-keyword: "柒月"
-url: "http://anthony_jin.github.io/"              # your host, for absolute URL
+keyword: “温宇直”
+url: "http://nicolewen.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     kimshuo
-zhihu_username:     anthony_jin
-github_username:    simking
+#weibo_username:     kimshuo
+zhihu_username:     wen-ni-zi
+github_username:    nicolewen
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
