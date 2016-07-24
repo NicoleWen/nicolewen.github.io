@@ -1,2 +1,1 @@
-# simking.github.io
-My static blog
+# 写字的地方
